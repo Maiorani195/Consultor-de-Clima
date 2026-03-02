@@ -1,7 +1,9 @@
 
 # 🌤️ Consultor de Clima CLI
 
-![Uploading image.png…]()
+<p align="center">
+  <img src="logo.png" alt="Logo do Clima CLI" width="300">
+</p>
 
 
 
