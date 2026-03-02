@@ -1,5 +1,4 @@
 
-
 # 🌤️ Consultor de Clima CLI
 
 Uma aplicação de interface de linha de comando (CLI) desenvolvida em Python para consultar dados meteorológicos em tempo real de qualquer cidade do mundo. 
