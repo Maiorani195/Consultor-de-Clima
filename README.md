@@ -1,11 +1,8 @@
 
 # 🌤️ Consultor de Clima CLI
 
-<p align="center">
-  <img src="logo.png" alt="Logo do Clima CLI" width="300">
-</p>
 
-
+![Uploading Gemini_Generated_Image_ksk7giksk7giksk7.png…]()
 
 Uma aplicação de interface de linha de comando (CLI) desenvolvida em Python para consultar dados meteorológicos em tempo real de qualquer cidade do mundo. 
 
