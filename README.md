@@ -1,6 +1,10 @@
 
 # 🌤️ Consultor de Clima CLI
 
+![Uploading image.png…]()
+
+
+
 Uma aplicação de interface de linha de comando (CLI) desenvolvida em Python para consultar dados meteorológicos em tempo real de qualquer cidade do mundo. 
 
 Este projeto consome a API RESTful do **OpenWeatherMap** e foi estruturado com foco em boas práticas de desenvolvimento, incluindo modularização de código e proteção de credenciais.
