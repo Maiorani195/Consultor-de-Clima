@@ -13,7 +13,7 @@ Este projeto consome a API RESTful do **OpenWeatherMap** e foi estruturado com f
 ## 🚀 Funcionalidades
 
 * **Consulta em Tempo Real:** Busca dados atualizados de temperatura, sensação térmica, umidade e vento.
-* **Interface** Retorno visual no terminal utilizando emojis baseados nas condições climáticas (sol, chuva, neve, etc.).
+* **Interface**: Retorno visual no terminal utilizando emojis baseados nas condições climáticas (sol, chuva, neve, etc.).
 * **Tratamento de Erros:** Validação de status HTTP (cidade não encontrada, chave inválida) e proteção contra quedas de conexão.
 * **Segurança:** Utilização de variáveis de ambiente (`.env`) para ocultar a API Key.
 
