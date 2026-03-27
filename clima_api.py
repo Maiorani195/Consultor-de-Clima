@@ -26,11 +26,11 @@ def buscar_clima(cidade):
             return None
         
 
-        if response.status_code == 401:#Verificando se a chave de API é válida ou não
+        if response.status_code == 401:#verificando se a chave de API é válida ou não
             print('❌ Chave de API inválida. Verifique sua chave e tente novamente!')
             return None
         
-        if response.status_code == 200:#Verificando se a resposta da API foi bem-sucedida
+        if response.status_code == 200:#Verificando se a resposta da API  deu certo
             data = response.json()
             return data
         else:
@@ -41,7 +41,7 @@ def buscar_clima(cidade):
         print("Sem conexão com a internet.")
         return None
 
-    except Exception as e:#Tratando outros erros que possam ocorrer durante a requisição
+    except Exception as e:#Tratando outros erros 
         print(f"Ocorreu um erro: {e}")
         return None
 
