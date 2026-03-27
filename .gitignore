@@ -1,9 +1,9 @@
-# Pastas de Ambiente Virtual
+
 venv/
 .venv/
 
-# Ignorar o arquivo de chaves secretas (MUITO IMPORTANTE)
+
 .env
 
-# Ignorar arquivos de cache do Python (lixo de sistema)
+
 __pycache__/
